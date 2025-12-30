@@ -1,5 +1,8 @@
 ## Hi! I'm Charon / Filip! 🍎
 
+Software developer, researcher, and creative multimedia specialist enthusiastic for software, art, and the many applications of procedural generation. Loves creating user-centric tools and architecture to support complex algorithms, exploring them for all.
+_______
+
 <!--
 **CharonTakov/CharonTakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
